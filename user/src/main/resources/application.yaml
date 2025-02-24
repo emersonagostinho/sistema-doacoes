@@ -1,0 +1,20 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/doacoes-user
+    username: postgres
+    password: 120502
+
+jpa:
+    hibernate:
+      ddl-auto: update
+      dialect: org.hibernate.dialect.PostgreSQLDialec
+
+properties:
+      hibernate:
+        show_sql: true
+        jdbc:
+          lob:
+            non_contextual_creation: true
