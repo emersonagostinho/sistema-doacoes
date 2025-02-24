@@ -136,7 +136,7 @@ Criar uma aplicação web robusta e escalável para facilitar a arrecadação de
 ## **Como Executar o Projeto 🏁**  
 1. **Clonar o repositório:**  
 ```bash
-git clone https://github.com/seu-usuario/sistema-doacoes.git
+git clone https://github.com/emersonagostinho/sistema-doacoes.git
 cd sistema-doacoes
 ```
 
@@ -162,7 +162,8 @@ docker-compose up
 
 ## **Autor 👤**  
 **Emerson José**  
-- 🐙 **GitHub:** emersonagostinho(#)  
+- 🐙 **GitHub:** emersonagostinho(#)
 - 📩 **Email:** emersonagostinhoj@gmail.com  
 
 ---
+#
